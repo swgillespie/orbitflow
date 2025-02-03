@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orbitflow", "orbitflow.csproj", "{8EDDAAE9-4FD2-5B88-0572-C4AC4B8A346E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDDAAE9-4FD2-5B88-0572-C4AC4B8A346E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDDAAE9-4FD2-5B88-0572-C4AC4B8A346E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDDAAE9-4FD2-5B88-0572-C4AC4B8A346E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDDAAE9-4FD2-5B88-0572-C4AC4B8A346E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B08D92-A161-49D4-BBB0-8A7034973D6B}
+	EndGlobalSection
+EndGlobal
